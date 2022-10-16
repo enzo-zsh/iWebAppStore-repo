@@ -8,6 +8,11 @@
  
  The iWebAppStore is the best PWA AppStore for iOS.
  
+ - NO revoke, because you don't need a certificat to install it
+ - 100% free | No-ads | No-code
+ - A big repository of PWA for iOS (AppStore, Tools, ...)
+ - A clear and beautiful UI/UX
+ 
  ## Link to try-it
  
  https://previewer.adalo.com/41bd283d-4a94-4b26-99f4-fade0b6f7102
