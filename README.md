@@ -12,6 +12,9 @@
  - 100% free | No-ads | Write in No-code (with Adalo)
  - A big repository of PWA for iOS (AppStore, Tools, ...)
  - A clear and beautiful UI/UX
+ ## WebClips
+ 
+ All iOS WebClips was made with iConfig : https://s0n1c.ca/iconfig/
  
  ## Link to try-it
  
