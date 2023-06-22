@@ -1,7 +1,7 @@
 # iWebAppStore
 <div align='center'>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/942205876159283281/1031183923134353468/unknown.png" alt="drawing" width="200"/>
+  <img src="https://media.discordapp.net/attachments/856640446317723698/1121545299073183764/RoundedIcon_3.png?width=651&height=651" alt="drawing" width="200"/>
  </div>
  
  ## Description
