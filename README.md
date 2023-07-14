@@ -22,7 +22,7 @@
  
  ## Social Network 
  
- Developer (@enzo-zsh) : https://twitter.com/enzo_zsh
+ Developer (@enzo-zsh) : https://twitter.com/enzo_lzrt
  
  iWebAppStore (@iWebAppStore) : https://twitter.com/iwebappstore
  
